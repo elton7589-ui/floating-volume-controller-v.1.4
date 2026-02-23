@@ -1,0 +1,5 @@
+{
+  "name": "Floating Volume Controller",
+  "description": "A sleek, floating volume control widget with smooth animations and intuitive UI.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
